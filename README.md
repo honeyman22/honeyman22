@@ -23,7 +23,7 @@
 
 <p align="center">
 [![LeetCode Stats]([https://leetcode-stats.vercel.app/api?username=nishan1998)]
-
+  <img align="center" src="https://leetcode-stats.vercel.app/api?username=nishan1998&show_icons=true&theme=radical" alt="honeyman22" />
 </p>
 
 
