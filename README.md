@@ -21,7 +21,7 @@
 ### 💻 LeetCode Stats
 
 <p align="center">
-  [![LeetCode Profile](https://leetcode-stats-six.vercel.app/?username=nishan1998)](https://leetcode.com/nishan1998)
+  [![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=nishan1998&theme=dark)](https://leetcode.com/u/nishan1998/)
 </p>
 
 ---
