@@ -5,3 +5,4 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=honeyman22&show_icons=true&locale=en&layout=compact" alt="honeyman22" /></p>
+[![LeetCode Profile](https://leetcode-stats-six.vercel.app/?username=nishan1998)](https://leetcode.com/nishan1998)
