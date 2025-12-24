@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=honeyman22&label=Profile%20Views&color=0e75b6&style=flat-square" alt="honeyman22" />
-  <img src="https://img.shields.io/badge/Focus-FullStack-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Software Engineer-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Loves-Open%20Source-success?style=flat-square" />
 </p>
 
